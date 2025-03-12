@@ -1,0 +1,8 @@
+fastapi  # Web framework
+uvicorn  # ASGI server
+sqlalchemy  # ORM for database interaction
+jinja2  # HTML templating engine
+python-jose  # JWT encoding and decoding
+passlib  # Password hashing
+pydantic  # Data validation and settings management
+email-validator # Email validation for Pydantic EmailStr
